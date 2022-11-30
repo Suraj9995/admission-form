@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/admission-form/static/css/main.cefaa1fc.css",
+    "main.js": "/admission-form/static/js/main.04534604.js",
+    "static/media/out.png": "/admission-form/static/media/out.fcad8b1134988dd15dec.png",
+    "index.html": "/admission-form/index.html",
+    "main.cefaa1fc.css.map": "/admission-form/static/css/main.cefaa1fc.css.map",
+    "main.04534604.js.map": "/admission-form/static/js/main.04534604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefaa1fc.css",
+    "static/js/main.04534604.js"
+  ]
+}
